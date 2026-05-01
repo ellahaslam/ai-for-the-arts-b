@@ -17,3 +17,14 @@ Resources used :
 -[CoPilot – Coding]( https://copilot.microsoft.com/)
 
 -Requirements.txt for more information other resources used throughout my notebook 
+
+-Digitized Materials
+MS Gen 13/006
+
+MS Gen 13/007
+
+MS Gen 13/087
+
+MacGeorge, A. (1867–1868) Travel Journal of a Continental Tour. GB 247 MS Gen 13/1, Item. University of Glasgow Archives & Special Collections, Glasgow. Available at: https://www.gla.ac.uk/collections/#/details?irn=266029&catType=C&gdcEvent=hierarchy_item_view (Accessed: 01 May 2026).
+
+*Access information available through the link.*
