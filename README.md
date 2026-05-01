@@ -11,6 +11,9 @@ This will be done by completing the following objectives :
 4.	Address any social concerns relating to Ai-driven creative content to evaluate how Ai usage shapes cultural heritage. 
 
 Resources used : 
-+[Dalle 3 (ChatGPT) – Image creation]( https://openai.com/index/dall-e-3/)
-+[CoPilot – Coding]( https://copilot.microsoft.com/)
-+Requirements.txt for more information other resources used throughout my notebook 
+
+-[Dalle 3 (ChatGPT) – Image creation]( https://openai.com/index/dall-e-3/)
+
+-[CoPilot – Coding]( https://copilot.microsoft.com/)
+
+-Requirements.txt for more information other resources used throughout my notebook 
