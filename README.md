@@ -1,4 +1,4 @@
-# ai-for-the-arts-b
+# ai-for-the-arts-b 2836800
 This notebook will bridge the gap between the 19th and 21st centuries to bring to life the illustrations presented in Andrew MacGeorge’s Travel Journal of a Continental Tour (1867-1868). 
 
 The purpose of this notebook is to produce a product which incorporates generative AI and the human creativity processes jointly. The output will engage audiences to add value to enhance cultural heritage of the product and introduce new perspective yet also exploring social implications introduced throughout processes. The result being a project that augments creativity when utilizing AI as a tool. 
